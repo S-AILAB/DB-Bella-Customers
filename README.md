@@ -1,4 +1,4 @@
-# DB-Bella-Customers
+# DB-Bello-Customers
 ## Objective
 Task to analyze the monthly sales by the manager.
 Performing different task.
